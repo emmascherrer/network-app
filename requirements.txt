@@ -1,0 +1,9 @@
+pandas 
+streamlit
+numpy
+sentence_transformers
+sklearn.metrics.pairwise
+pyvis.network
+tempfile
+streamlit-clickable-images
+streamlit-scroll-navigation
