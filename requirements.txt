@@ -1,0 +1,8 @@
+pandas
+streamlit
+numpy
+sentence-transformers
+scikit-learn
+pyvis
+streamlit-clickable-images
+streamlit-scroll-navigation
